@@ -9,7 +9,7 @@
   "author": "Manish Nayal",
   "license": "MIT",
   "devDependencies": {
-    "browser-sync": "^2.23.6",
+    "browser-sync": "^2.29.1",
     "gulp": "^3.9.1",
     "gulp-imagemin": "^3.2.0",
     "gulp-pug": "^3.3.0",
